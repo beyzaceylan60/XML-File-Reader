@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<class>
+<student rollNo="1">
+<firstName>Beyza</firstName>
+<lastName>Ceylan</lastName>
+<marks>85</marks>
+</student>
+<student rollNo="2">
+<firstName>Salih</firstName>
+<lastName>Uzun</lastName>
+<marks>88</marks>
+</student>
+<student rollNo="3">
+<firstName>Rumeysa</firstName>
+<lastName>Ceylan</lastName>
+<marks>45</marks>
+</student>
+<student rollNo="4">
+<firstName>Doğukan</firstName>
+<lastName>Sama</lastName>
+<marks>30</marks>
+</student>
+</class>
